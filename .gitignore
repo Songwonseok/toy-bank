@@ -1,0 +1,73 @@
+# === Kotlin + Gradle ===
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package distribution
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Gradle cache
+**/build/
+**/out/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Kotlin-specific
+.kotlinc/
+.kotlin/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Unit test reports
+test-results/
+test-output/
+
+# Coverage reports
+coverage/
+*.ec
+*.exec
+
+# Local environment settings
+local.properties
+
+# Mac ._* files
+._*
+
+# JetBrains Rider
+.idea/
+*.sln
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
